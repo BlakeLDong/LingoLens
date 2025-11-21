@@ -1,0 +1,8 @@
+{
+  "name": "LingoLens - AI English Tutor",
+  "description": "An AI-powered English learning assistant that translates, analyzes grammar, generates mnemonics, and acts as a contextual tutor using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
